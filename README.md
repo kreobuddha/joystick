@@ -8,4 +8,7 @@ npm install
 npm run start
 ```
 
-3. Open index.html
+3. Open http://localhost:8080
+
+
+4. Use mobile mode (press `f12` => press `ctrl + shift + M`)
